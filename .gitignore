@@ -1,0 +1,14 @@
+apt_pkg.cpython-37m-x86_64-linux-gnu.so
+.idea
+*.log
+*.pot
+*.pyc
+local_settings.py
+/dist/
+/django_simple_polls.egg-info/
+/build/
+/venv/
+
+# vim
+*.swp
+*.swo
